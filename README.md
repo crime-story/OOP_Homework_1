@@ -1,2 +1,3 @@
 # OOP_Homework_1
-Homework OOP #1
+Popescu Paullo Robertto Karloss
+Grupa 131
