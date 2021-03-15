@@ -1,7 +1,7 @@
 # OOP_Homework_1
 ## Popescu Paullo Robertto Karloss
 ### Grupa 131
-D6 Clasa "matrice" (matrice de double), avand:    // usor
+#### D6 Clasa "matrice" (matrice de double), avand:    // usor
     - membri privati pentru matricea propriuzisa, numarul de linii si numarul de coloane;
     - constructor pentru initializarea cu un numar dat pe toate componentele (primeste ca parametru numarul respectiv si numarul de linii si de coloane);
     - constructori pentru initializare si copiere;
